@@ -44,9 +44,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="MaximumNumberOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumNumberOne" />
+  <component name="RunManager" selected="Application.ReverseLinkedListInGroup">
+    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonElements" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualOneZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualOneZero" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstNonRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstNonRepeat" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstRepeat" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedListInGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseLinkedListInGroup" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,7 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumNumberOne" />
+        <item itemvalue="Application.ReverseLinkedListInGroup" />
+        <item itemvalue="Application.EqualOneZero" />
+        <item itemvalue="Application.FirstNonRepeat" />
+        <item itemvalue="Application.FirstRepeat" />
+        <item itemvalue="Application.CommonElements" />
       </list>
     </recent_temporary>
   </component>
