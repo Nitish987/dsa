@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8330514-37c5-4b2c-b042-f90eeead9b47" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedListInGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseLinkedListInGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +44,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MissingRepeating">
-    <configuration name="BinaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryToDecimal" />
+  <component name="RunManager" selected="Application.TrappingRainWater">
+    <configuration name="FindMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMissing" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMissing" />
+    <configuration name="KLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KLargest" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,13 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDublicateInLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDublicateInLinkedList" />
-      <module name="dsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StockBuySell" />
       <module name="dsa" />
@@ -81,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrappingRainWater" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrappingRainWater" />
+        <item itemvalue="Application.KLargest" />
         <item itemvalue="Application.MissingRepeating" />
         <item itemvalue="Application.StockBuySell" />
         <item itemvalue="Application.FindMissing" />
-        <item itemvalue="Application.BinaryToDecimal" />
-        <item itemvalue="Application.RemoveDublicateInLinkedList" />
       </list>
     </recent_temporary>
   </component>
