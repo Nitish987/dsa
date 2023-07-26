@@ -6,6 +6,62 @@
   <component name="ChangeListManager">
     <list default="true" id="a8330514-37c5-4b2c-b042-f90eeead9b47" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayDublicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ArrayDublicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayMaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ArrayMaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraySortCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ArraySortCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searching/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/BinaryToDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CanMakeTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/CanMakeTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/CommonElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualOneZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/EqualOneZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/FactDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindDublicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindDublicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstNonRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FirstNonRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FirstRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrequencyCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FrequencyCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeadRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/HeadRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndirectRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/IndirectRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/KLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KadaneAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/KadaneAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Matchsticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/Matchsticks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumNumberOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/MaximumNumberOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MissingRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/MissingRepeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NestedRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/NestedRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/NextPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PeekElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/PeekElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/PrimeRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ProductExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDublicateInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/RemoveDublicateInLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedListInGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ReverseLinkedListInGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StockBuySell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/StockBuySell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDuplicatesChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/StringDuplicatesChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringFirstLastOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/StringFirstLastOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringMoveX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/StringMoveX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubArrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SubArrayWithGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfFirstNaturalNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SumOfFirstNaturalNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TailRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/TailRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/TopK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TotalDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/TotalDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrailingZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematical/TrailingZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/TrappingRainWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/TreeRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Union.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Union.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValueEqualIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ValueEqualIndex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,35 +102,35 @@
 }</component>
   <component name="RunManager" selected="Application.TrappingRainWater">
     <configuration name="FindMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMissing" />
+      <option name="MAIN_CLASS_NAME" value="array.FindMissing" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="KLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KLargest" />
+      <option name="MAIN_CLASS_NAME" value="array.KLargest" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MissingRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MissingRepeating" />
+      <option name="MAIN_CLASS_NAME" value="array.MissingRepeating" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StockBuySell" />
+      <option name="MAIN_CLASS_NAME" value="array.StockBuySell" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrappingRainWater" />
+      <option name="MAIN_CLASS_NAME" value="array.TrappingRainWater" />
       <module name="dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
