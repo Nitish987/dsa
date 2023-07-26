@@ -1,13 +1,3 @@
-class Node {
-    int data;
-    Node next;
-    Node(int key)
-    {
-        data = key;
-        next = null;
-    }
-}
-
 public class ReverseLinkedListInGroup {
     public static Node reverse(Node node, int k) {
         boolean headFlag = true;
@@ -34,14 +24,6 @@ public class ReverseLinkedListInGroup {
         return head;
     }
 
-    public static void printList(Node node) {
-        while(node != null) {
-            System.out.print(node.data + " ");
-            node = node.next;
-        }
-        System.out.println();
-    }
-
     public static void main(String[] args) {
         Node head = new Node(1);
         head.next = new Node(2);
@@ -50,8 +32,8 @@ public class ReverseLinkedListInGroup {
         head.next.next.next.next = new Node(5);
         head.next.next.next.next.next = new Node(6);
         head.next.next.next.next.next.next = new Node(7);
-        printList(head);
+        Node.print(head);
         Node newHead = reverse(head, 3);
-        printList(newHead);
+        Node.print(newHead);
     }
 }
