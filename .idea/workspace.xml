@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.KSmallest">
+  <component name="RunManager" selected="Application.LongSubArrayWithDivK">
     <configuration name="KSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.KSmallest" />
       <module name="dsa" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProductSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MaxProductSubArray" />
+    <configuration name="LargestNumberFormed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.LargestNumberFormed" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MinRotatedSortedArray" />
+    <configuration name="LongSubArrayWithDivK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.LongSubArrayWithDivK" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -84,9 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.TrappingRainWater" />
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MergeIntervals" />
       <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongSubArrayWithDivK" />
+        <item itemvalue="Application.LargestNumberFormed" />
+        <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.KSmallest" />
         <item itemvalue="Application.TripletSum" />
-        <item itemvalue="Application.MinRotatedSortedArray" />
-        <item itemvalue="Application.MaxProductSubArray" />
-        <item itemvalue="Application.TrappingRainWater" />
       </list>
     </recent_temporary>
   </component>
