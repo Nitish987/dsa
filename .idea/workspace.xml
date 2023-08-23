@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicates">
+  <component name="RunManager" selected="Application.LongestCharReplacement">
     <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.CountingSort" />
       <module name="dsa" />
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongSubArrayWithDivK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.LongSubArrayWithDivK" />
+    <configuration name="LongestCharReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.LongestCharReplacement" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCharReplacement" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.MobileNumericKeypad" />
         <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.CountingSort" />
-        <item itemvalue="Application.LongSubArrayWithDivK" />
       </list>
     </recent_temporary>
   </component>
