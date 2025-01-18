@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LongSubArrayWithDivK {
-    static int longSubarrWthSumDivByK(int[] a, int n, int k)
+    static int longSubArrWthSumDivByK(int[] a, int n, int k)
     {
         int max = 0, sum = 0, mod;
         Map<Integer, Integer> map = new HashMap<>();
@@ -26,6 +26,6 @@ public class LongSubArrayWithDivK {
     public static void main(String[] args) {
         int[] a = {2, 7, 6, 1, 4, 5};
 //        int[] a = {-2, 2, -5, 12, -11, -1, 7};
-        System.out.println(longSubarrWthSumDivByK(a, a.length, 3));
+        System.out.println(longSubArrWthSumDivByK(a, a.length, 3));
     }
 }

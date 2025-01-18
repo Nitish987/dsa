@@ -5,6 +5,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class KLargest {
+
     public static ArrayList<Integer> kLargest(int arr[], int n, int k)
     {
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
@@ -23,7 +24,7 @@ public class KLargest {
     }
 
     public static void main(String[] args) {
-        int[] arr = {12, 5, 787, 1, 23};
+        int[] arr = {12, 5, 787, 1, 23, 500};
         System.out.println(kLargest(arr, arr.length, 2));
     }
 }

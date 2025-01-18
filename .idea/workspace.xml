@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a8330514-37c5-4b2c-b042-f90eeead9b47" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ArrayDublicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ArrayDuplicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FindDublicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/KLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/KLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/LongSubArrayWithDivK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/LongSubArrayWithDivK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2LGRiju8cnHmv3WkAgw1PZPk86c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -33,20 +41,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EqualOneZero.executor": "Run",
+    "Application.FindDuplicate.executor": "Run",
+    "Application.KLargest.executor": "Run",
+    "Application.KSmallest.executor": "Run",
+    "Application.LargestNumberFormed.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MissingRepeating.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/learning/dsa",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.StockBuySell">
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.CoinChange" />
+}]]></component>
+  <component name="RunManager" selected="Application.MissingRepeating">
+    <configuration name="KLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.KLargest" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -58,21 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.LongestPalindromicSubstring" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.NextPermutation" />
+    <configuration name="KSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.KSmallest" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromicSubstringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.PalindromicSubstringCount" />
+    <configuration name="LargestNumberFormed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.LargestNumberFormed" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +104,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.StockBuySell" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MissingNumber" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MissingRepeating" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StockBuySell" />
-        <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.PalindromicSubstringCount" />
-        <item itemvalue="Application.LongestPalindromicSubstring" />
+        <item itemvalue="Application.MissingRepeating" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.LargestNumberFormed" />
+        <item itemvalue="Application.KSmallest" />
+        <item itemvalue="Application.KLargest" />
       </list>
     </recent_temporary>
   </component>
