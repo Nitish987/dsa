@@ -1,17 +1,17 @@
 package linkedlist;
 
 public class ReverseLinkedListInGroup {
-    public static Node reverse(Node node, int k) {
+    public static SingleLinkedNode reverse(SingleLinkedNode singleLinkedNode, int k) {
         boolean headFlag = true;
-        Node head = null, end = null;
-        while(node != null) {
-            Node start = node, prev = null;
+        SingleLinkedNode head = null, end = null;
+        while(singleLinkedNode != null) {
+            SingleLinkedNode start = singleLinkedNode, prev = null;
             int i = 0;
-            while (node != null && i < k) {
-                Node next = node.next;
-                node.next = prev;
-                prev = node;
-                node = next;
+            while (singleLinkedNode != null && i < k) {
+                SingleLinkedNode next = singleLinkedNode.next;
+                singleLinkedNode.next = prev;
+                prev = singleLinkedNode;
+                singleLinkedNode = next;
                 i++;
             }
             if (headFlag) {
@@ -27,15 +27,15 @@ public class ReverseLinkedListInGroup {
     }
 
     public static void main(String[] args) {
-        Node head = new Node(1);
-        head.next = new Node(2);
-        head.next.next = new Node(3);
-        head.next.next.next = new Node(4);
-        head.next.next.next.next = new Node(5);
-        head.next.next.next.next.next = new Node(6);
-        head.next.next.next.next.next.next = new Node(7);
-        Node.print(head);
-        Node newHead = reverse(head, 3);
-        Node.print(newHead);
+        SingleLinkedNode head = new SingleLinkedNode(1);
+        head.next = new SingleLinkedNode(2);
+        head.next.next = new SingleLinkedNode(3);
+        head.next.next.next = new SingleLinkedNode(4);
+        head.next.next.next.next = new SingleLinkedNode(5);
+        head.next.next.next.next.next = new SingleLinkedNode(6);
+        head.next.next.next.next.next.next = new SingleLinkedNode(7);
+        SingleLinkedNode.print(head);
+        SingleLinkedNode newHead = reverse(head, 3);
+        SingleLinkedNode.print(newHead);
     }
 }

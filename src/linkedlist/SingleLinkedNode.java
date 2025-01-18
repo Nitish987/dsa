@@ -1,15 +1,15 @@
 package linkedlist;
 
-public class Node {
+public class SingleLinkedNode {
     public int data;
-    public Node next;
+    public SingleLinkedNode next;
 
-    Node(int data) {
+    SingleLinkedNode(int data) {
         this.data = data;
         next = null;
     }
 
-    public static void print(Node head) {
+    public static void print(SingleLinkedNode head) {
         while(head != null) {
             System.out.print(head.data + " ");
             head = head.next;
