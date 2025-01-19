@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a8330514-37c5-4b2c-b042-f90eeead9b47" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/MergeIntervals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
     "Application.KSmallest.executor": "Run",
     "Application.LargestNumberFormed.executor": "Run",
     "Application.LargestSubArrayWithZeroSum.executor": "Run",
+    "Application.MergeIntervals.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingRepeating.executor": "Run",
     "Application.SubArraysXor.executor": "Run",
@@ -62,7 +64,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SubArraysXor">
+  <component name="RunManager" selected="Application.MergeIntervals">
     <configuration name="LargestSubArrayWithZeroSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.LargestSubArrayWithZeroSum" />
       <module name="dsa" />
@@ -76,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MissingNumber" />
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MergeIntervals" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.SubArraysXor" />
         <item itemvalue="Application.TreeTraversal" />
         <item itemvalue="Application.LargestSubArrayWithZeroSum" />
         <item itemvalue="Application.MissingRepeating" />
-        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>

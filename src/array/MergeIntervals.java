@@ -3,6 +3,8 @@ package array;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+// https://leetcode.com/problems/merge-intervals/
+
 public class MergeIntervals {
     public static int[][] overlappedInterval(int[][] Intervals) {
         if (Intervals.length == 1) {
@@ -12,47 +14,22 @@ public class MergeIntervals {
         Arrays.sort(Intervals, (ints1, ints2) -> ints1[0] - ints2[0]);
         ArrayList<int[]> ranges = new ArrayList<>();
 
-        int i = 0, j, cx, cy, nx, ny;
-        while (i < Intervals.length - 1) {
-            j = i;
-            cx = Intervals[j][0];
-            cy = Intervals[j][1];
-            nx = Intervals[j + 1][0];
-            ny = Intervals[j + 1][1];
-            boolean executed = false;
-            while (j < Intervals.length - 1 && nx >= cx && nx <= cy) {
-                executed = true;
-                if (ny > cy) {
-                    cy = ny;
+        for (int i = 0; i < Intervals.length; i++) {
+            int s = Intervals[i][0];
+            int e = Intervals[i][1];
+
+            while (i + 1 < Intervals.length && e >= Intervals[i + 1][0]) {
+                if (e < Intervals[i + 1][1]) {
+                    e = Intervals[i + 1][1];
                 }
-                j++;
-                nx = Intervals[j][0];
-                ny = Intervals[j][1];
+                i++;
             }
-            ranges.add(new int[] {cx, cy});
-            if (!executed) {
-                j++;
-            }
-            i = j;
-        }
-        int[] last = ranges.get(ranges.size() - 1);
-        cx = last[0];
-        cy = last[1];
-        nx = Intervals[i][0];
-        ny = Intervals[i][1];
-        if (nx >= cx && nx <= cy) {
-            if (ny > cy) {
-                cy = ny;
-                ranges.remove(ranges.size() - 1);
-                ranges.add(new int[] {cx, cy});
-            }
-        } else {
-            ranges.add(Intervals[i]);
+
+            ranges.add(new int[]{s, e});
         }
 
         int[][] array = new int[ranges.size()][2];
-        array = ranges.toArray(array);
-        return array;
+        return ranges.toArray(array);
     }
 
     public static void printArray(int[] arr) {
