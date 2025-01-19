@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8330514-37c5-4b2c-b042-f90eeead9b47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/SingleLinkedNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/RemoveDublicateInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/RemoveDublicateInLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/ReverseLinkedListInGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ReverseLinkedListInGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,7 @@
     "Application.LargestSubArrayWithZeroSum.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingRepeating.executor": "Run",
+    "Application.SubArraysXor.executor": "Run",
     "Application.TreeTraversal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,20 +62,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TreeTraversal">
-    <configuration name="LargestNumberFormed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.LargestNumberFormed" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SubArraysXor">
     <configuration name="LargestSubArrayWithZeroSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.LargestSubArrayWithZeroSum" />
       <module name="dsa" />
@@ -118,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubArraysXor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SubArraysXor" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TreeTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.TreeTraversal" />
       <module name="dsa" />
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArraysXor" />
         <item itemvalue="Application.TreeTraversal" />
         <item itemvalue="Application.LargestSubArrayWithZeroSum" />
         <item itemvalue="Application.MissingRepeating" />
         <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.LargestNumberFormed" />
       </list>
     </recent_temporary>
   </component>
